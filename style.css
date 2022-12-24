@@ -1,0 +1,25 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+   width: 13%;
+   
+}
+.icon{
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 3px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 1200px){
+    .text{
+        margin-left: 712px;
+    }
+    .margin{
+        margin: 50px 0 0 150px;
+    }
+    
+}
+
+
